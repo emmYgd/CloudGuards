@@ -1,0 +1,7 @@
+'''This module will contain custom implementations of algorithms including:
+ (1) Byte Array sorting algorithms
+ (2) Obfuscation and Re-arrangements
+ (3) Bar-Code Technology?
+        for -> password sharing (using barcode?)
+        for -> image representation of (1)?'''
+ (4) 
